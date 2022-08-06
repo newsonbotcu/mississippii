@@ -24,6 +24,6 @@ class oxyistekanka{
 <p align="left">
 <a href="https://discord.com/users/794883797085978624" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oxyiste&show_icons=true&theme=radical" alt="oxyistegithubistatistik" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oxyiste&show_icons=true&theme=radical" alt="mississippiigithubistatistik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mississippii&theme=radical" alt="mississippiigithubistatistik" /></p>
