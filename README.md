@@ -26,4 +26,4 @@ class oxyistekanka{
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oxyiste&show_icons=true&theme=radical" alt="oxyistegithubistatistik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oxyiste&theme=radical" alt="oxyistegithubistatistik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mississippii&theme=radical" alt="mississippiigithubistatistik" /></p>
